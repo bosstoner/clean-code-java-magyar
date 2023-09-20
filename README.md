@@ -2,7 +2,8 @@
 
 ## Tartalomjegyzék
 
-1. [Bevezetés](#bevezetés)
+0. [Bevezetés](#bevezetés)
+1. [Általános szabályok](#általános-szabályok)
 2. [Változók](#változók)
     - Használj önmagukban is jelentéssel bíró, kimondható változóneveket
     - Használd ugyanazt az elnevezést az összetartozó változók esetében
@@ -64,6 +65,14 @@ A szoftverfejlesztő szakma alig több mint 50 éves, és kollektíve még mindi
 Még egy megjegyzés: a Clean Code irányelvek ismerete nem fog azonnal jobb szoftverfejlesztővé tenni, és ha évekig ezekkel dolgozol, az sem jelenti azt, hogy nem fogsz hibázni. Minden kód piszkozatként indul, aminek tökéletlenségeit akkor javíthatod ki, amikor a társaiddal közösen átnézitek azt. Ne ostorozd magad a javításra szoruló első vázlatok miatt.
 
 Vágjunk bele!
+
+
+## **Általános szabályok**
+
+- Kövesd az iparági sztenderdeket és konvenciókat.
+- Keep it simple, stupid (KISS), avagy az egyszerűbb mindig jobb. Csökkentsd a komplexitást, ahol csak tudod.
+- Tartsd a cserkésztörvényt (Boy scout rule), avagy hagyd tisztábban a táborhelyet, mint ahogyan találtad.
+- Mindig keresd a probléma kiváltó okát.
 
 
 ## **Változók**
